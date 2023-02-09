@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -21,13 +16,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
+
 - Objective 1: Learn what each Role does; how does it differ from Agent? 
+- 
 - Objective 2: Learn how different Departments work different cases and how the ticketing system is set up for that.
+- 
 - Objective 3: Learn how to configure Teams and how in the work place teams are used.
+- 
 - Objective 4: Learn how people create tickets.
+- 
 - Objective 5: Create new Agents and assign them different Roles and to different departments.
+- 
 - Objective 6: Create users who will be creating tickets.
+- 
 - Objective 7: Create the SLA's - Service Level Agreement. This is the companies policy for what tickets get worked first and how they get sorted based on severity impact to the company.
+- 
 - Objective 8: Using the SLA, create the Help Topics for the tickets.
 
 
